@@ -19,4 +19,5 @@ Pod::Spec.new do |s|
   s.source_files   = 'ios/*.{h,m}', 'ios/GCDWebServer/*/*.{h,m}'
 
   s.dependency 'React'
+  s.dependency 'GCDWebServer'
 end
