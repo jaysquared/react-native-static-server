@@ -15,14 +15,12 @@
   "author": "fchasen@gmail.com",
   "license": "MIT",
   "peerDependencies": {
-    "react": "16.8.6",
-    "react-native": "^0.59.10",
-    "react-native-windows": "0.57.2"
+    "react": ">16.8.6",
+    "react-native": ">0.59.10",
   },
   "devDependencies": {
-    "react": "16.8.6",
-    "react-native": "^0.59.10",
-    "react-native-windows": "0.57.2"
+    "react": ">16.8.6",
+    "react-native": ">0.61.10",
   },
   "files": [
     "android",
